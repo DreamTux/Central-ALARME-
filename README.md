@@ -1,4 +1,7 @@
-# Central-ALARME-
-Arduino central d'alarme simple sur UNO plus Sheild Ethernet et NRF24L01
+# Central-ALARME-Control de porte
 
-Je mets ce code source pour que vous m’aidez à le débuguer merci d'avance.
+Un exemple de l'utilisation des lecteur RFID les plus vendu sur AliExperess
+
+Le RMD6300 et le Gwiot
+
+Tout est dans le commantaire du code.
