@@ -1,4 +1,4 @@
-// Chargement des LIBRAIRIES
+// Chargement des LIBRAIRIES le code est compatible avec les deux models attention a bien commenter et decommenter.
 // #include <Gwiot7941e.h>     // Version Gwiot
 #include <rdm6300.h>        // Version RDM6300
 #include <Arduino.h>
